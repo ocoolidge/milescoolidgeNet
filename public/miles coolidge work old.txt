@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<style type="text/css"></style>
+</head>
+
+<body>
+
+<h1><center><font color="#e0e0e0"face="verdana">
+ WORK </h1> </center></font>
+ 
+
+
+<a href= "C:\Users\owen\Documents\WEB STUFF\accident investigation.htm">
+
+<div class = "center">
+	<div align= "center" class = "accidentinvestigationpicframebox">
+		<div class = "accidentinvestigationpic" ></div>
+	</div>
+
+<h5><font face = "verdana">
+<div class = "accidentinvestigationtext" style = "overflow: hidden; margin-top: -100px; "align="center">Accident Investigation</div>
+
+
+
+<a href= "C:\Users\owen\Documents\WEB STUFF\ancient history.htm">
+
+<div class = "ancienthistorypic" style = "width:2000px; height:200px; margin-top: 82px; overflow: hidden;" align="center">
+<img src="C:\Users\owen\Documents\WEB STUFF\work_index\Ancient History (2001)\anc. hist.strt.on.jpg" width="1200" height="492" alt="anc. hist.strt.on.jpg"></div>
+
+<div class = "ancienthistorytext" style = "overflow: hidden; margin-top: -100px;"align="center">Ancient History</div>
+</div>
+
+</font></h5>
+</body>
+</html>

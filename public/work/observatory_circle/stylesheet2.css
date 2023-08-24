@@ -1,0 +1,129 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+#container{
+	margin-top:50px;
+	width:100%;
+	height:100%;
+	position:center;
+}
+
+#container .prevButton{
+	height:500px;
+	width:50%;
+	position:absolute;
+	background:url('../buttons.png') no-repeat;
+	top:7%;
+	margin-top:110px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:left top;
+	left:0
+}
+
+#container .nextButton{
+	height:500px;
+	width:50%;
+	position:absolute;
+	background:url('C:\Users\owen\Documents\WEB STUFF\images\buttons.png') no-repeat;
+	top:7%;
+	margin-top:110px;
+	cursor:pointer;
+	z-index:2000;
+	background-position:right top;
+	right:0
+}
+
+#container ul{
+	width:1200px;
+	height:1200px;
+	list-style:none outside none;
+	position:center;
+	overflow:hidden;
+}
+
+#container li:first-child{
+	display:list-item;
+	position:center;
+}
+
+#container li{
+	position:center;
+	display:none;
+}
+
+
+body {
+    background-color: #919191;
+}
+
+
+h4 {
+
+    margin-left: 5px;
+	margin-right: 0px;
+	margin-top: 50px;
+	margin-bottom: 0px;
+
+	font-style: normal;
+	font-weight:normal;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 34pt;
+	display: inline-block;
+}
+
+p {
+font-family: verdana;
+    margin-left: 20px;
+	font-size: 24pt;
+	color: #e0e0e0;
+}
+
+a {
+}
+
+/* unvisited link */
+a:link {
+    color: #e0e0e0;
+}
+
+/* visited link */
+a:visited {
+  color: #e0e0e0;
+}
+
+/* mouse over link */
+a:hover {
+    color: #595959;
+}
+
+/* selected link */
+a:active {
+   color: #000000;
+}
+
+div.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+
+
+img {
+    opacity: 1;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+img:hover {
+    opacity: 1;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}

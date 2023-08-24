@@ -1,0 +1,60 @@
+/*CSS*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 12px;
+	font-family: "Verdana";
+	background: #919191;
+}
+
+/* unvisited link */
+a:link {
+    color: #e0e0e0;
+	text-decoration: none;
+	outline:none;
+}
+
+/* visited link */
+a:visited {
+    color: #e0e0e0;
+	text-decoration: none;
+	outline:none;
+}
+
+/* mouse over link */
+a:hover {
+     color: #595959;
+	 text-decoration: none;
+	outline:none;
+}
+
+/* selected link */
+a:active {
+     color: #595959;
+	 text-decoration: none;
+	outline:none;
+}
+
+a img { 
+	border: none;
+}
+
+#content {
+    margin: 0px 0px 0px 100px;
+
+}
+
+p {
+	color: #e0e0e0;
+    margin: 0 0 5px 0;
+
+}
+p2 {
+	color: #e0e0e0;
+    margin: 0 0 5px 0;
+	font-size:14px;
+}
+

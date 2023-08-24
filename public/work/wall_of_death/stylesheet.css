@@ -1,0 +1,85 @@
+/*CSS*/
+body {
+	font-size: 12px !important;
+	font-family: "Verdana" !important;
+	background: #919191 !important;
+}
+
+a:link {
+    color: #e0e0e0;
+}
+/* visited link */
+a:visited {
+  color: #e0e0e0;
+}
+/* mouse over link */
+a:hover {
+    color: #595959;
+}
+/* selected link */
+a:active {
+   color: #000000;
+}
+
+.row{
+	
+} 
+.wallOfDeathFull {
+	margin-top: 100px;
+}
+.wallOfDeathFull img{
+	margin-bottom: 100px;
+
+}
+.instalationViewImage{
+	margin-bottom: 100px;
+}
+.row img{
+	width: 100%;
+	height: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+[class*="col-"] {
+	padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+
+.image1{
+	margin-bottom:50px;
+}
+.image2{
+	
+}
+.links{
+	font-family: "Verdana";
+	color: #e0e0e0;
+	font-size: 17pt;
+	margin-top: -3;
+	margin-bottom: 5px;
+	margin-left: -7px;
+}
+.milescoolidge{
+	font-size: 60pt;
+	font-family: "Verdana";
+}
+.worklinks{
+	font-family: "Verdana";
+	width: 250px;
+	margin-left: 219px;
+	margin-top: 0px;
+	line-height:180%;
+	font-size: 13px;
+	line-height: 125%;
+}
+.heading{
+	
+	margin-bottom: 50px;
+}
+.mc{
+	width: 1000px;
+	margin: 0 auto;
+}

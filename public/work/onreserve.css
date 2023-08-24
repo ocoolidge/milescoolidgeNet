@@ -1,0 +1,223 @@
+body {
+    background-color: #919191;
+}
+
+/* unvisited link */
+a:link {
+    color: #e0e0e0;
+}
+
+/* visited link */
+a:visited {
+    color: #e0e0e0;
+}
+
+/* mouse over link */
+a:hover {
+     color: #595959;
+}
+
+/* selected link */
+a:active {
+     color: #595959;
+}
+
+/*work*/
+.links{
+	font-family: "Verdana";
+
+	color: #e0e0e0;
+	font-size: 28pt;
+	margin-top: -3;
+	margin-bottom: 20px;
+	margin-left: -7px;
+}
+
+.milescoolidge{
+	font-size: 78pt;
+	font-family: "Verdana";
+	margin-top: -8px;
+}
+
+/*Accident Investigation*/
+.cropaccidentinvestigationsite {
+    width: 1200px;
+    height: 250px;
+    overflow: hidden;
+	
+	font-size: 85px;
+	font-family: "Verdana";
+	color: #e0e0e0;
+}
+.cropaccidentinvestigationsite img {
+	margin-top: -100px;
+	margin-left: -100px;
+}
+.accidentinvestigationsitetext{
+	margin-top: 67px;
+	margin-left: 30px;
+	position: absolute;
+	color: #4D4037;
+}
+
+/*Ancient History*/
+.cropancienthistory {
+    font-size: 85px;
+	font-family: "Verdana";
+    width: 1200px;
+    height: 250px;
+    overflow: hidden;
+	color: #e0e0e0;
+}
+.cropancienthistory img {
+    width: 2694px;
+    height: 1569px;
+    margin: -707px 0 0 -83px;
+	font-size: 100px;
+}
+.ancienthistorytext{
+	margin-top: 67px;
+	margin-left: 250px;
+	position: absolute;
+	color: #A64646;
+}
+
+/*Central Valley*/
+.cropcentralvalley{
+	font-size: 85px;
+	font-family: "Verdana";
+    width: 1200px;
+    height: 250px;
+    overflow: hidden;
+	color: #e0e0e0;
+}
+.cropcentralvalley img {
+    width: 1400px;
+    height: 955px;
+    margin: 0px 0 0 0px;
+	margin-left: -120px;
+	
+	margin-top: -385px;
+	font-size: 100px;
+}
+.centralvalleytext{
+	margin-top: 67px;
+	margin-left: 280px;
+	position: absolute;
+	color:#8CBECF;
+}
+
+/*Crackberry*/
+.cropCrackberry{
+	font-size: 85px;
+	font-family: "Verdana";
+    width: 1200px;
+    height: 250px;
+    overflow: hidden;
+	color: #e0e0e0;
+}
+.cropCrackberry img {
+    width: 1400px;
+    height: 955px;
+    margin: 0px 0 0 0px;
+	margin-left: -120px;
+	
+	margin-top: -70px;
+	font-size: 100px;
+}
+.Crackberrytext{
+	margin-top: 67px;
+	margin-left: 340px;
+	position: absolute;
+	color:#8F8F8F;
+}
+
+/*Drawbridges*/
+.cropDrawbridges{
+	font-size: 85px;
+	font-family: "Verdana";
+    width: 1200px;
+    height: 250px;
+    overflow: hidden;
+	color: #e0e0e0;
+}
+.cropDrawbridges img {
+    width: 1400px;
+    height: 955px;
+    margin: 0px 0 0 0px;
+	margin-left: -120px;
+	
+	margin-top: -70px;
+	font-size: 100px;
+}
+.Drawbridgestext{
+	margin-top: 67px;
+	margin-left: 310px;
+	position: absolute;
+	color:#26943B;
+}
+
+/*Elevator Pictures*/
+.cropElavatorPictures{
+	font-size: 85px;
+	font-family: "Verdana";
+    width: 1200px;
+    height: 250px;
+    overflow: hidden;
+	color: #e0e0e0;
+}
+.cropElavatorPictures img {
+    width: 1400px;
+    height: 955px;
+    margin: 0px 0 0 0px;
+	margin-left: -120px;
+	
+	margin-top: -70px;
+	font-size: 100px;
+}
+.ElavatorPicturestext{
+	margin-top: 67px;
+	margin-left: 230px;
+	position: absolute;
+	color:#8CBECF;
+}
+
+/*Everything*/
+.cropeverything{
+	font-size: 85px;
+	font-family: "Verdana";
+    width: 1200px;
+    height: 250px;
+    overflow: hidden;
+	color: #e0e0e0;
+}
+.cropeverything img {
+    width: 1400px;
+    height: 955px;
+    margin: 0px 0 0 0px;
+	margin-left: -120px;
+	
+	margin-top: -70px;
+	font-size: 100px;
+}
+.everythingtext{
+	margin-top: 67px;
+	margin-left: 280px;
+	position: absolute;
+	color:#8CBECF;
+}
+img {
+    opacity: 1;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+}
+
+img:hover {
+    opacity: .7;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}

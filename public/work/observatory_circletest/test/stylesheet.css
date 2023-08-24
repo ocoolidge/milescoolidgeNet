@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+#container{
+	margin-top:50px;
+	width:100%;
+	height:100%;
+	position:center;
+}
+
+#container ul{
+	width:1200px;
+	height:1200px;
+	list-style:none outside none;
+	position:center;
+	overflow:hidden;
+}
+
+#container li:first-child{
+	display:list-item;
+	position:center;
+}
+
+#container li{
+	position:center;
+	display:none;
+}
+
+body {
+    background-color: #919191;
+}
+
+div.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
